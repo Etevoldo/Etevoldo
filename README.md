@@ -3,7 +3,7 @@
 
 - ♥️ I’m passionate about Maths, Computer Hardware and Software
 
-- 📖 I’m currently learning **C**
+- 📖 I’m currently learning **C**, data structures, HTML, CSS and SQL
 
 - 😉 I'm studying to work as a software developer in the future
 
