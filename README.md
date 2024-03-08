@@ -1,11 +1,13 @@
 <h1 align="center"> Hi! I'm Etevoldo </h1>
 <br>
 
-- ♥️ I’m passionate about Maths, Computer Hardware and Software
+- ♥️ I’m passionate about Maths, Computer Hardware and Software.
 
-- 📖 I’m currently learning **C**, data structures, HTML, CSS and SQL
+- 📖 I’m currently learning **C++**, Type/JavaScript, Angular.
 
-- 😉 I'm studying to work as a software developer in the future
+- 💡 I'm interested in low-level coding and reverse Engineering.
+
+- 😉 I'm studying to work as a software developer in the future.
 
 <!---
 Etevoldo/Etevoldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
