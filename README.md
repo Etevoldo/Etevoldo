@@ -3,7 +3,7 @@
 
 - ♥️ I’m passionate about Maths, Computer Hardware and Software.
 
-- 📖 I’m currently learning **C++**, Type/JavaScript, Angular.
+- 📖 I’m currently learning **C++**, Type/JavaScript.
 
 - 💡 I'm interested in low-level coding and reverse Engineering.
 
