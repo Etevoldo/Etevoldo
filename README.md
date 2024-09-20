@@ -3,9 +3,9 @@
 
 - ♥️ I’m passionate about Maths, Computer Hardware and Software.
 
-- 📖 I’m currently learning **C++**, Type/JavaScript.
+- 📖 I’m currently learning Type/JavaScript.
 
-- 💡 I'm interested in low-level coding and reverse Engineering.
+- 💡 I'm interested in low-level coding and reverse Engineering, and Back-end development.
 
 - 😉 I'm studying to work as a software developer in the future.
 
