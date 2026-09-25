@@ -1,13 +1,19 @@
 <h1 align="center"> Hi! I'm Etevoldo </h1>
 <br>
 
-- ♥️ I’m passionate about Maths, Computer Hardware and Software.
+<h2>I Am...</h2>
 
-- 📖 I’m currently learning C#, and backend stuff in general (docker, jwt, rest apis, noSQL and SQL databases...).
+- ♥️ passionate about Maths, Computer Hardware and Software.
 
-- 💡 I'm interested in low-level coding and reverse Engineering, and Back-end development.
+- 📖 currently learning emulator development, backend stuff, and data engineering.
 
-- 😉 I'm studying to work as backend developer in the future.
+- 💡 interested in low-level coding and reverse Engineering, and Back-end development.
+
+- 😉 studying to work as backend developer in the future.
+
+- 🇧🇷 from Brazil!
+
+- ✨❌ None of my projects are written by an LLM. I like to learn and hands-on programming.
 
 <!---
 Etevoldo/Etevoldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
